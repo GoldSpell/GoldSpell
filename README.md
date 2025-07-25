@@ -117,4 +117,7 @@
 
 ---
 
-<p align="center"><b>Thanks for visiting! 🚀</b></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&width=435&lines=Thanks+for+stopping+by!;Learn+coding+💻;Lets+build+something+great+together!+🚀" />
+</p>
+
