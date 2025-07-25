@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GoldSpell</h1>
+<h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate developer from India, fluent in most programming languages</h3>
 
 <p align="center">
